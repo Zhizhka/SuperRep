@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de10933f-073a-45bd-8be4-aa20099239a5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1455008358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="java" value="10420" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10420" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/controller/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/mainLogic/LogicOfArmy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/container/HeroArmy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/view/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/userInput/Input.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Zombi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+              <folding>
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Stalker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Monster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <folding>
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/bntu/povt/sudolenko/javalabs/lab10/doptask/Controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/View/Output.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/UserInput/Input.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/Controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/MainLogic/Logic.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class1/Base.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class2Park/Park.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class1Car/Car.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Controller/Hero.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class3Man/Man.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Tank/Tank.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Stalker/Tank.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Stalker/Stalker.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Monster/Monster.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Robot/Robot.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/entitis/Monster.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/entitis/Robot.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/entitis/Stalker.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/userInput/Input.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/mainLogic/LogicOfGame.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/mainLogic/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/container/HeroArmy.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/view/Printer.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Robot.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Zombi.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Stalker.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Monster.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/mainLogic/LogicOfArmy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="-28" />
+    <option name="width" value="1750" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="entitis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="mainLogic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="userInput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java version" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="G:/bntu-labs-term4" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bntu.fitr.povt.sudolenko.javalabs.lab10.mainTask.controller.Main" />
+      <module name="Java version" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bntu.fitr.povt.sudolenko.javalabs.lab10.doptask.Controller.Main" />
+      <module name="Java version" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8255319" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8255319" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/povt/sudolenko/javalabs/lab10/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/povt/sudolenko/javalabs/lab10/doptask/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/povt/sudolenko/javalabs/lab10/doptask/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class2.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class2/Tank.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class1/Base.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class1Car/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class2Park/Park.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Class3Man/Man.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/maintask/Controller/Hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/UserInput/Input.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/MainLogic/Logic.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/Controller/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/doptask/View/Output.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/controller/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/userInput/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/controller/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/container/HeroArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/view/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Zombi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+          <folding>
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Stalker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/entitis/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding>
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/sudolenko/javalabs/lab10/mainTask/mainLogic/LogicOfArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
